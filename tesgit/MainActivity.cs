@@ -19,7 +19,7 @@ namespace tesgit
 			// and attach an event to it
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 			button.Click += delegate {
-				Toast.MakeText(this,"Aufa Yunus dan siti wan kembang", ToastLength.Short).Show();
+				Toast.MakeText(this,"Aufa Yunus dan siti wan kembang semangkuk", ToastLength.Short).Show();
 			};
 		}
 	}
