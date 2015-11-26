@@ -26,6 +26,48 @@ namespace tesgit
 		
 		public static void UpdateIdValues()
 		{
+			global::com.refractored.Resource.Attribute.pstsDividerColor = global::tesgit.Resource.Attribute.pstsDividerColor;
+			global::com.refractored.Resource.Attribute.pstsDividerPadding = global::tesgit.Resource.Attribute.pstsDividerPadding;
+			global::com.refractored.Resource.Attribute.pstsDividerWidth = global::tesgit.Resource.Attribute.pstsDividerWidth;
+			global::com.refractored.Resource.Attribute.pstsIndicatorColor = global::tesgit.Resource.Attribute.pstsIndicatorColor;
+			global::com.refractored.Resource.Attribute.pstsIndicatorHeight = global::tesgit.Resource.Attribute.pstsIndicatorHeight;
+			global::com.refractored.Resource.Attribute.pstsPaddingMiddle = global::tesgit.Resource.Attribute.pstsPaddingMiddle;
+			global::com.refractored.Resource.Attribute.pstsScrollOffset = global::tesgit.Resource.Attribute.pstsScrollOffset;
+			global::com.refractored.Resource.Attribute.pstsShouldExpand = global::tesgit.Resource.Attribute.pstsShouldExpand;
+			global::com.refractored.Resource.Attribute.pstsTabBackground = global::tesgit.Resource.Attribute.pstsTabBackground;
+			global::com.refractored.Resource.Attribute.pstsTabPaddingLeftRight = global::tesgit.Resource.Attribute.pstsTabPaddingLeftRight;
+			global::com.refractored.Resource.Attribute.pstsTextAllCaps = global::tesgit.Resource.Attribute.pstsTextAllCaps;
+			global::com.refractored.Resource.Attribute.pstsTextAlpha = global::tesgit.Resource.Attribute.pstsTextAlpha;
+			global::com.refractored.Resource.Attribute.pstsTextColorSelected = global::tesgit.Resource.Attribute.pstsTextColorSelected;
+			global::com.refractored.Resource.Attribute.pstsTextSelectedStyle = global::tesgit.Resource.Attribute.pstsTextSelectedStyle;
+			global::com.refractored.Resource.Attribute.pstsTextStyle = global::tesgit.Resource.Attribute.pstsTextStyle;
+			global::com.refractored.Resource.Attribute.pstsUnderlineColor = global::tesgit.Resource.Attribute.pstsUnderlineColor;
+			global::com.refractored.Resource.Attribute.pstsUnderlineHeight = global::tesgit.Resource.Attribute.pstsUnderlineHeight;
+			global::com.refractored.Resource.Color.psts_background_tab_pressed = global::tesgit.Resource.Color.psts_background_tab_pressed;
+			global::com.refractored.Resource.Drawable.psts_background_tab = global::tesgit.Resource.Drawable.psts_background_tab;
+			global::com.refractored.Resource.Id.bold = global::tesgit.Resource.Id.bold;
+			global::com.refractored.Resource.Id.italic = global::tesgit.Resource.Id.italic;
+			global::com.refractored.Resource.Id.normal = global::tesgit.Resource.Id.normal;
+			global::com.refractored.Resource.Id.psts_tab_title = global::tesgit.Resource.Id.psts_tab_title;
+			global::com.refractored.Resource.Layout.psts_tab = global::tesgit.Resource.Layout.psts_tab;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip = global::tesgit.Resource.Styleable.PagerSlidingTabStrip;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsDividerColor = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsDividerColor;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsDividerPadding = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsDividerPadding;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsDividerWidth = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsDividerWidth;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsIndicatorColor = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsIndicatorColor;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsIndicatorHeight = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsIndicatorHeight;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsPaddingMiddle = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsPaddingMiddle;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsScrollOffset = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsScrollOffset;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsShouldExpand = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsShouldExpand;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTabBackground = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsTabBackground;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTabPaddingLeftRight = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsTabPaddingLeftRight;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTextAllCaps = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsTextAllCaps;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTextAlpha = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsTextAlpha;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTextColorSelected = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsTextColorSelected;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTextSelectedStyle = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsTextSelectedStyle;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsTextStyle = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsTextStyle;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsUnderlineColor = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsUnderlineColor;
+			global::com.refractored.Resource.Styleable.PagerSlidingTabStrip_pstsUnderlineHeight = global::tesgit.Resource.Styleable.PagerSlidingTabStrip_pstsUnderlineHeight;
 		}
 		
 		public partial class Animation
@@ -494,6 +536,57 @@ namespace tesgit
 			// aapt resource value: 0x7f010011
 			public const int progressBarStyle = 2130771985;
 			
+			// aapt resource value: 0x7f0100cd
+			public const int pstsDividerColor = 2130772173;
+			
+			// aapt resource value: 0x7f0100d1
+			public const int pstsDividerPadding = 2130772177;
+			
+			// aapt resource value: 0x7f0100ce
+			public const int pstsDividerWidth = 2130772174;
+			
+			// aapt resource value: 0x7f0100cb
+			public const int pstsIndicatorColor = 2130772171;
+			
+			// aapt resource value: 0x7f0100cf
+			public const int pstsIndicatorHeight = 2130772175;
+			
+			// aapt resource value: 0x7f0100d7
+			public const int pstsPaddingMiddle = 2130772183;
+			
+			// aapt resource value: 0x7f0100d3
+			public const int pstsScrollOffset = 2130772179;
+			
+			// aapt resource value: 0x7f0100d5
+			public const int pstsShouldExpand = 2130772181;
+			
+			// aapt resource value: 0x7f0100d4
+			public const int pstsTabBackground = 2130772180;
+			
+			// aapt resource value: 0x7f0100d2
+			public const int pstsTabPaddingLeftRight = 2130772178;
+			
+			// aapt resource value: 0x7f0100d6
+			public const int pstsTextAllCaps = 2130772182;
+			
+			// aapt resource value: 0x7f0100d9
+			public const int pstsTextAlpha = 2130772185;
+			
+			// aapt resource value: 0x7f0100d8
+			public const int pstsTextColorSelected = 2130772184;
+			
+			// aapt resource value: 0x7f0100db
+			public const int pstsTextSelectedStyle = 2130772187;
+			
+			// aapt resource value: 0x7f0100da
+			public const int pstsTextStyle = 2130772186;
+			
+			// aapt resource value: 0x7f0100cc
+			public const int pstsUnderlineColor = 2130772172;
+			
+			// aapt resource value: 0x7f0100d0
+			public const int pstsUnderlineHeight = 2130772176;
+			
 			// aapt resource value: 0x7f010044
 			public const int queryBackground = 2130772036;
 			
@@ -730,32 +823,32 @@ namespace tesgit
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0b003a
-			public const int abc_background_cache_hint_selector_material_dark = 2131427386;
-			
 			// aapt resource value: 0x7f0b003b
-			public const int abc_background_cache_hint_selector_material_light = 2131427387;
+			public const int abc_background_cache_hint_selector_material_dark = 2131427387;
 			
 			// aapt resource value: 0x7f0b003c
-			public const int abc_color_highlight_material = 2131427388;
+			public const int abc_background_cache_hint_selector_material_light = 2131427388;
+			
+			// aapt resource value: 0x7f0b003d
+			public const int abc_color_highlight_material = 2131427389;
 			
 			// aapt resource value: 0x7f0b0000
 			public const int abc_input_method_navigation_guard = 2131427328;
 			
-			// aapt resource value: 0x7f0b003d
-			public const int abc_primary_text_disable_only_material_dark = 2131427389;
-			
 			// aapt resource value: 0x7f0b003e
-			public const int abc_primary_text_disable_only_material_light = 2131427390;
+			public const int abc_primary_text_disable_only_material_dark = 2131427390;
 			
 			// aapt resource value: 0x7f0b003f
-			public const int abc_primary_text_material_dark = 2131427391;
+			public const int abc_primary_text_disable_only_material_light = 2131427391;
 			
 			// aapt resource value: 0x7f0b0040
-			public const int abc_primary_text_material_light = 2131427392;
+			public const int abc_primary_text_material_dark = 2131427392;
 			
 			// aapt resource value: 0x7f0b0041
-			public const int abc_search_url_text = 2131427393;
+			public const int abc_primary_text_material_light = 2131427393;
+			
+			// aapt resource value: 0x7f0b0042
+			public const int abc_search_url_text = 2131427394;
 			
 			// aapt resource value: 0x7f0b0001
 			public const int abc_search_url_text_normal = 2131427329;
@@ -766,11 +859,11 @@ namespace tesgit
 			// aapt resource value: 0x7f0b0003
 			public const int abc_search_url_text_selected = 2131427331;
 			
-			// aapt resource value: 0x7f0b0042
-			public const int abc_secondary_text_material_dark = 2131427394;
-			
 			// aapt resource value: 0x7f0b0043
-			public const int abc_secondary_text_material_light = 2131427395;
+			public const int abc_secondary_text_material_dark = 2131427395;
+			
+			// aapt resource value: 0x7f0b0044
+			public const int abc_secondary_text_material_light = 2131427396;
 			
 			// aapt resource value: 0x7f0b0004
 			public const int accent_material_dark = 2131427332;
@@ -904,6 +997,9 @@ namespace tesgit
 			// aapt resource value: 0x7f0b002f
 			public const int primary_text_disabled_material_light = 2131427375;
 			
+			// aapt resource value: 0x7f0b003a
+			public const int psts_background_tab_pressed = 2131427386;
+			
 			// aapt resource value: 0x7f0b0030
 			public const int ripple_material_dark = 2131427376;
 			
@@ -928,11 +1024,11 @@ namespace tesgit
 			// aapt resource value: 0x7f0b0037
 			public const int switch_thumb_disabled_material_light = 2131427383;
 			
-			// aapt resource value: 0x7f0b0044
-			public const int switch_thumb_material_dark = 2131427396;
-			
 			// aapt resource value: 0x7f0b0045
-			public const int switch_thumb_material_light = 2131427397;
+			public const int switch_thumb_material_dark = 2131427397;
+			
+			// aapt resource value: 0x7f0b0046
+			public const int switch_thumb_material_light = 2131427398;
 			
 			// aapt resource value: 0x7f0b0038
 			public const int switch_thumb_normal_material_dark = 2131427384;
@@ -1371,8 +1467,11 @@ namespace tesgit
 			// aapt resource value: 0x7f02003e
 			public const int monoandroidsplash = 2130837566;
 			
+			// aapt resource value: 0x7f020040
+			public const int notification_template_icon_bg = 2130837568;
+			
 			// aapt resource value: 0x7f02003f
-			public const int notification_template_icon_bg = 2130837567;
+			public const int psts_background_tab = 2130837567;
 			
 			static Drawable()
 			{
@@ -1387,35 +1486,35 @@ namespace tesgit
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0c004e
-			public const int action0 = 2131492942;
+			// aapt resource value: 0x7f0c0050
+			public const int action0 = 2131492944;
 			
-			// aapt resource value: 0x7f0c003e
-			public const int action_bar = 2131492926;
+			// aapt resource value: 0x7f0c0040
+			public const int action_bar = 2131492928;
 			
 			// aapt resource value: 0x7f0c0000
 			public const int action_bar_activity_content = 2131492864;
 			
-			// aapt resource value: 0x7f0c003d
-			public const int action_bar_container = 2131492925;
+			// aapt resource value: 0x7f0c003f
+			public const int action_bar_container = 2131492927;
 			
-			// aapt resource value: 0x7f0c0039
-			public const int action_bar_root = 2131492921;
+			// aapt resource value: 0x7f0c003b
+			public const int action_bar_root = 2131492923;
 			
 			// aapt resource value: 0x7f0c0001
 			public const int action_bar_spinner = 2131492865;
 			
-			// aapt resource value: 0x7f0c0022
-			public const int action_bar_subtitle = 2131492898;
+			// aapt resource value: 0x7f0c0024
+			public const int action_bar_subtitle = 2131492900;
 			
-			// aapt resource value: 0x7f0c0021
-			public const int action_bar_title = 2131492897;
+			// aapt resource value: 0x7f0c0023
+			public const int action_bar_title = 2131492899;
 			
-			// aapt resource value: 0x7f0c003f
-			public const int action_context_bar = 2131492927;
+			// aapt resource value: 0x7f0c0041
+			public const int action_context_bar = 2131492929;
 			
-			// aapt resource value: 0x7f0c0052
-			public const int action_divider = 2131492946;
+			// aapt resource value: 0x7f0c0054
+			public const int action_divider = 2131492948;
 			
 			// aapt resource value: 0x7f0c0002
 			public const int action_menu_divider = 2131492866;
@@ -1423,20 +1522,20 @@ namespace tesgit
 			// aapt resource value: 0x7f0c0003
 			public const int action_menu_presenter = 2131492867;
 			
-			// aapt resource value: 0x7f0c003b
-			public const int action_mode_bar = 2131492923;
+			// aapt resource value: 0x7f0c003d
+			public const int action_mode_bar = 2131492925;
 			
-			// aapt resource value: 0x7f0c003a
-			public const int action_mode_bar_stub = 2131492922;
+			// aapt resource value: 0x7f0c003c
+			public const int action_mode_bar_stub = 2131492924;
 			
-			// aapt resource value: 0x7f0c0023
-			public const int action_mode_close_button = 2131492899;
+			// aapt resource value: 0x7f0c0025
+			public const int action_mode_close_button = 2131492901;
 			
-			// aapt resource value: 0x7f0c0024
-			public const int activity_chooser_view_content = 2131492900;
+			// aapt resource value: 0x7f0c0026
+			public const int activity_chooser_view_content = 2131492902;
 			
-			// aapt resource value: 0x7f0c002e
-			public const int alertTitle = 2131492910;
+			// aapt resource value: 0x7f0c0030
+			public const int alertTitle = 2131492912;
 			
 			// aapt resource value: 0x7f0c001b
 			public const int always = 2131492891;
@@ -1444,53 +1543,56 @@ namespace tesgit
 			// aapt resource value: 0x7f0c0018
 			public const int beginning = 2131492888;
 			
-			// aapt resource value: 0x7f0c0034
-			public const int buttonPanel = 2131492916;
-			
-			// aapt resource value: 0x7f0c004f
-			public const int cancel_action = 2131492943;
+			// aapt resource value: 0x7f0c0021
+			public const int bold = 2131492897;
 			
 			// aapt resource value: 0x7f0c0036
-			public const int checkbox = 2131492918;
+			public const int buttonPanel = 2131492918;
 			
-			// aapt resource value: 0x7f0c0055
-			public const int chronometer = 2131492949;
+			// aapt resource value: 0x7f0c0051
+			public const int cancel_action = 2131492945;
+			
+			// aapt resource value: 0x7f0c0038
+			public const int checkbox = 2131492920;
+			
+			// aapt resource value: 0x7f0c0057
+			public const int chronometer = 2131492951;
 			
 			// aapt resource value: 0x7f0c001c
 			public const int collapseActionView = 2131492892;
 			
-			// aapt resource value: 0x7f0c002f
-			public const int contentPanel = 2131492911;
+			// aapt resource value: 0x7f0c0031
+			public const int contentPanel = 2131492913;
 			
-			// aapt resource value: 0x7f0c0033
-			public const int custom = 2131492915;
+			// aapt resource value: 0x7f0c0035
+			public const int custom = 2131492917;
 			
-			// aapt resource value: 0x7f0c0032
-			public const int customPanel = 2131492914;
+			// aapt resource value: 0x7f0c0034
+			public const int customPanel = 2131492916;
 			
-			// aapt resource value: 0x7f0c003c
-			public const int decor_content_parent = 2131492924;
+			// aapt resource value: 0x7f0c003e
+			public const int decor_content_parent = 2131492926;
 			
-			// aapt resource value: 0x7f0c0027
-			public const int default_activity_button = 2131492903;
+			// aapt resource value: 0x7f0c0029
+			public const int default_activity_button = 2131492905;
 			
 			// aapt resource value: 0x7f0c000c
 			public const int disableHome = 2131492876;
 			
-			// aapt resource value: 0x7f0c0040
-			public const int edit_query = 2131492928;
+			// aapt resource value: 0x7f0c0042
+			public const int edit_query = 2131492930;
 			
 			// aapt resource value: 0x7f0c0019
 			public const int end = 2131492889;
 			
-			// aapt resource value: 0x7f0c005a
-			public const int end_padder = 2131492954;
+			// aapt resource value: 0x7f0c005c
+			public const int end_padder = 2131492956;
 			
-			// aapt resource value: 0x7f0c0025
-			public const int expand_activities_button = 2131492901;
+			// aapt resource value: 0x7f0c0027
+			public const int expand_activities_button = 2131492903;
 			
-			// aapt resource value: 0x7f0c0035
-			public const int expanded_menu = 2131492917;
+			// aapt resource value: 0x7f0c0037
+			public const int expanded_menu = 2131492919;
 			
 			// aapt resource value: 0x7f0c0004
 			public const int home = 2131492868;
@@ -1498,32 +1600,35 @@ namespace tesgit
 			// aapt resource value: 0x7f0c000d
 			public const int homeAsUp = 2131492877;
 			
-			// aapt resource value: 0x7f0c0029
-			public const int icon = 2131492905;
+			// aapt resource value: 0x7f0c002b
+			public const int icon = 2131492907;
 			
 			// aapt resource value: 0x7f0c001d
 			public const int ifRoom = 2131492893;
 			
-			// aapt resource value: 0x7f0c0026
-			public const int image = 2131492902;
+			// aapt resource value: 0x7f0c0028
+			public const int image = 2131492904;
+			
+			// aapt resource value: 0x7f0c005b
+			public const int info = 2131492955;
+			
+			// aapt resource value: 0x7f0c0022
+			public const int italic = 2131492898;
+			
+			// aapt resource value: 0x7f0c0055
+			public const int line1 = 2131492949;
 			
 			// aapt resource value: 0x7f0c0059
-			public const int info = 2131492953;
-			
-			// aapt resource value: 0x7f0c0053
-			public const int line1 = 2131492947;
-			
-			// aapt resource value: 0x7f0c0057
-			public const int line3 = 2131492951;
+			public const int line3 = 2131492953;
 			
 			// aapt resource value: 0x7f0c0009
 			public const int listMode = 2131492873;
 			
-			// aapt resource value: 0x7f0c0028
-			public const int list_item = 2131492904;
+			// aapt resource value: 0x7f0c002a
+			public const int list_item = 2131492906;
 			
-			// aapt resource value: 0x7f0c0051
-			public const int media_actions = 2131492945;
+			// aapt resource value: 0x7f0c0053
+			public const int media_actions = 2131492947;
 			
 			// aapt resource value: 0x7f0c001a
 			public const int middle = 2131492890;
@@ -1531,8 +1636,8 @@ namespace tesgit
 			// aapt resource value: 0x7f0c0013
 			public const int multiply = 2131492883;
 			
-			// aapt resource value: 0x7f0c004d
-			public const int myButton = 2131492941;
+			// aapt resource value: 0x7f0c004f
+			public const int myButton = 2131492943;
 			
 			// aapt resource value: 0x7f0c001e
 			public const int never = 2131492894;
@@ -1543,8 +1648,8 @@ namespace tesgit
 			// aapt resource value: 0x7f0c000a
 			public const int normal = 2131492874;
 			
-			// aapt resource value: 0x7f0c002b
-			public const int parentPanel = 2131492907;
+			// aapt resource value: 0x7f0c002d
+			public const int parentPanel = 2131492909;
 			
 			// aapt resource value: 0x7f0c0005
 			public const int progress_circular = 2131492869;
@@ -1552,50 +1657,53 @@ namespace tesgit
 			// aapt resource value: 0x7f0c0006
 			public const int progress_horizontal = 2131492870;
 			
-			// aapt resource value: 0x7f0c0038
-			public const int radio = 2131492920;
+			// aapt resource value: 0x7f0c005d
+			public const int psts_tab_title = 2131492957;
+			
+			// aapt resource value: 0x7f0c003a
+			public const int radio = 2131492922;
 			
 			// aapt resource value: 0x7f0c0014
 			public const int screen = 2131492884;
 			
-			// aapt resource value: 0x7f0c0030
-			public const int scrollView = 2131492912;
-			
-			// aapt resource value: 0x7f0c0042
-			public const int search_badge = 2131492930;
-			
-			// aapt resource value: 0x7f0c0041
-			public const int search_bar = 2131492929;
-			
-			// aapt resource value: 0x7f0c0043
-			public const int search_button = 2131492931;
-			
-			// aapt resource value: 0x7f0c0048
-			public const int search_close_btn = 2131492936;
+			// aapt resource value: 0x7f0c0032
+			public const int scrollView = 2131492914;
 			
 			// aapt resource value: 0x7f0c0044
-			public const int search_edit_frame = 2131492932;
+			public const int search_badge = 2131492932;
 			
-			// aapt resource value: 0x7f0c004a
-			public const int search_go_btn = 2131492938;
+			// aapt resource value: 0x7f0c0043
+			public const int search_bar = 2131492931;
 			
 			// aapt resource value: 0x7f0c0045
-			public const int search_mag_icon = 2131492933;
+			public const int search_button = 2131492933;
+			
+			// aapt resource value: 0x7f0c004a
+			public const int search_close_btn = 2131492938;
 			
 			// aapt resource value: 0x7f0c0046
-			public const int search_plate = 2131492934;
-			
-			// aapt resource value: 0x7f0c0047
-			public const int search_src_text = 2131492935;
-			
-			// aapt resource value: 0x7f0c004b
-			public const int search_voice_btn = 2131492939;
+			public const int search_edit_frame = 2131492934;
 			
 			// aapt resource value: 0x7f0c004c
-			public const int select_dialog_listview = 2131492940;
+			public const int search_go_btn = 2131492940;
 			
-			// aapt resource value: 0x7f0c0037
-			public const int shortcut = 2131492919;
+			// aapt resource value: 0x7f0c0047
+			public const int search_mag_icon = 2131492935;
+			
+			// aapt resource value: 0x7f0c0048
+			public const int search_plate = 2131492936;
+			
+			// aapt resource value: 0x7f0c0049
+			public const int search_src_text = 2131492937;
+			
+			// aapt resource value: 0x7f0c004d
+			public const int search_voice_btn = 2131492941;
+			
+			// aapt resource value: 0x7f0c004e
+			public const int select_dialog_listview = 2131492942;
+			
+			// aapt resource value: 0x7f0c0039
+			public const int shortcut = 2131492921;
 			
 			// aapt resource value: 0x7f0c000f
 			public const int showCustom = 2131492879;
@@ -1618,35 +1726,35 @@ namespace tesgit
 			// aapt resource value: 0x7f0c0017
 			public const int src_over = 2131492887;
 			
-			// aapt resource value: 0x7f0c0050
-			public const int status_bar_latest_event_content = 2131492944;
+			// aapt resource value: 0x7f0c0052
+			public const int status_bar_latest_event_content = 2131492946;
 			
-			// aapt resource value: 0x7f0c0049
-			public const int submit_area = 2131492937;
+			// aapt resource value: 0x7f0c004b
+			public const int submit_area = 2131492939;
 			
 			// aapt resource value: 0x7f0c000b
 			public const int tabMode = 2131492875;
 			
+			// aapt resource value: 0x7f0c005a
+			public const int text = 2131492954;
+			
 			// aapt resource value: 0x7f0c0058
-			public const int text = 2131492952;
+			public const int text2 = 2131492952;
+			
+			// aapt resource value: 0x7f0c0033
+			public const int textSpacerNoButtons = 2131492915;
 			
 			// aapt resource value: 0x7f0c0056
-			public const int text2 = 2131492950;
-			
-			// aapt resource value: 0x7f0c0031
-			public const int textSpacerNoButtons = 2131492913;
-			
-			// aapt resource value: 0x7f0c0054
-			public const int time = 2131492948;
-			
-			// aapt resource value: 0x7f0c002a
-			public const int title = 2131492906;
-			
-			// aapt resource value: 0x7f0c002d
-			public const int title_template = 2131492909;
+			public const int time = 2131492950;
 			
 			// aapt resource value: 0x7f0c002c
-			public const int topPanel = 2131492908;
+			public const int title = 2131492908;
+			
+			// aapt resource value: 0x7f0c002f
+			public const int title_template = 2131492911;
+			
+			// aapt resource value: 0x7f0c002e
+			public const int topPanel = 2131492910;
 			
 			// aapt resource value: 0x7f0c0008
 			public const int up = 2131492872;
@@ -1801,16 +1909,19 @@ namespace tesgit
 			public const int notification_template_part_time = 2130968608;
 			
 			// aapt resource value: 0x7f040021
-			public const int select_dialog_item_material = 2130968609;
+			public const int psts_tab = 2130968609;
 			
 			// aapt resource value: 0x7f040022
-			public const int select_dialog_multichoice_material = 2130968610;
+			public const int select_dialog_item_material = 2130968610;
 			
 			// aapt resource value: 0x7f040023
-			public const int select_dialog_singlechoice_material = 2130968611;
+			public const int select_dialog_multichoice_material = 2130968611;
 			
 			// aapt resource value: 0x7f040024
-			public const int support_simple_spinner_dropdown_item = 2130968612;
+			public const int select_dialog_singlechoice_material = 2130968612;
+			
+			// aapt resource value: 0x7f040025
+			public const int support_simple_spinner_dropdown_item = 2130968613;
 			
 			static Layout()
 			{
@@ -3290,6 +3401,77 @@ namespace tesgit
 			
 			// aapt resource value: 7
 			public const int MenuView_preserveIconSpacing = 7;
+			
+			public static int[] PagerSlidingTabStrip = new int[]
+			{
+					2130772171,
+					2130772172,
+					2130772173,
+					2130772174,
+					2130772175,
+					2130772176,
+					2130772177,
+					2130772178,
+					2130772179,
+					2130772180,
+					2130772181,
+					2130772182,
+					2130772183,
+					2130772184,
+					2130772185,
+					2130772186,
+					2130772187};
+			
+			// aapt resource value: 2
+			public const int PagerSlidingTabStrip_pstsDividerColor = 2;
+			
+			// aapt resource value: 6
+			public const int PagerSlidingTabStrip_pstsDividerPadding = 6;
+			
+			// aapt resource value: 3
+			public const int PagerSlidingTabStrip_pstsDividerWidth = 3;
+			
+			// aapt resource value: 0
+			public const int PagerSlidingTabStrip_pstsIndicatorColor = 0;
+			
+			// aapt resource value: 4
+			public const int PagerSlidingTabStrip_pstsIndicatorHeight = 4;
+			
+			// aapt resource value: 12
+			public const int PagerSlidingTabStrip_pstsPaddingMiddle = 12;
+			
+			// aapt resource value: 8
+			public const int PagerSlidingTabStrip_pstsScrollOffset = 8;
+			
+			// aapt resource value: 10
+			public const int PagerSlidingTabStrip_pstsShouldExpand = 10;
+			
+			// aapt resource value: 9
+			public const int PagerSlidingTabStrip_pstsTabBackground = 9;
+			
+			// aapt resource value: 7
+			public const int PagerSlidingTabStrip_pstsTabPaddingLeftRight = 7;
+			
+			// aapt resource value: 11
+			public const int PagerSlidingTabStrip_pstsTextAllCaps = 11;
+			
+			// aapt resource value: 14
+			public const int PagerSlidingTabStrip_pstsTextAlpha = 14;
+			
+			// aapt resource value: 13
+			public const int PagerSlidingTabStrip_pstsTextColorSelected = 13;
+			
+			// aapt resource value: 16
+			public const int PagerSlidingTabStrip_pstsTextSelectedStyle = 16;
+			
+			// aapt resource value: 15
+			public const int PagerSlidingTabStrip_pstsTextStyle = 15;
+			
+			// aapt resource value: 1
+			public const int PagerSlidingTabStrip_pstsUnderlineColor = 1;
+			
+			// aapt resource value: 5
+			public const int PagerSlidingTabStrip_pstsUnderlineHeight = 5;
 			
 			public static int[] PopupWindow = new int[]
 			{

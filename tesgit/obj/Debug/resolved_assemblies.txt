@@ -6,6 +6,8 @@
 /Users/hafiz/testgit/tesgit/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
 /Users/hafiz/testgit/tesgit/obj/Debug/assemblies/Xamarin.Android.Support.v7.AppCompat.dll
 /Users/hafiz/testgit/tesgit/obj/Debug/assemblies/Newtonsoft.Json.dll
+/Users/hafiz/testgit/tesgit/obj/Debug/assemblies/Refractored.PagerSlidingTabStrip.dll
+/Users/hafiz/testgit/tesgit/obj/Debug/assemblies/Mono.Android.Export.dll
 /Users/hafiz/testgit/tesgit/obj/Debug/assemblies/System.Core.dll
 /Users/hafiz/testgit/tesgit/obj/Debug/assemblies/mscorlib.dll
 /Users/hafiz/testgit/tesgit/obj/Debug/assemblies/System.Runtime.Serialization.dll

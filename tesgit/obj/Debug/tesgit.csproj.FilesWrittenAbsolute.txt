@@ -21,3 +21,4 @@
 /Users/hafiz/testgit/tesgit/bin/Debug/Xamarin.Android.Support.v4.dll
 /Users/hafiz/testgit/tesgit/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
 /Users/hafiz/testgit/tesgit/bin/Debug/Newtonsoft.Json.dll
+/Users/hafiz/testgit/tesgit/bin/Debug/Refractored.PagerSlidingTabStrip.dll
