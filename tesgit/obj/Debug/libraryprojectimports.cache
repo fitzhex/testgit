@@ -2,16 +2,13 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>/Users/hafiz/testgit/tesgit/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/hafiz/testgit/tesgit/obj/Debug/__library_projects__/Refractored.PagerSlidingTabStrip/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\MSD Hainizam\Documents\GitHub\testgit\tesgit\obj\Debug\__library_projects__\Refractored.PagerSlidingTabStrip\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>/Users/hafiz/testgit/tesgit/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/assets</ResolvedAssetDirectory>
-    <ResolvedAssetDirectory>/Users/hafiz/testgit/tesgit/obj/Debug/__library_projects__/Refractored.PagerSlidingTabStrip/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\MSD Hainizam\Documents\GitHub\testgit\tesgit\obj\Debug\__library_projects__\Refractored.PagerSlidingTabStrip\library_project_imports\assets</ResolvedAssetDirectory>
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>/Users/hafiz/testgit/tesgit/obj/Debug/__library_projects__/Xamarin.Insights.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/hafiz/testgit/tesgit/obj/Debug/__library_projects__/Refractored.PagerSlidingTabStrip.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\MSD Hainizam\Documents\GitHub\testgit\tesgit\obj\Debug\__library_projects__\Refractored.PagerSlidingTabStrip.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
